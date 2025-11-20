@@ -70,7 +70,7 @@ echo "<h3>Failed to connect to MySQL:</h3> " . mysqli_connect_error();
 }
  else
 {
-// echo '<h3>Connected successfully</h3>';
+// echo '<h3>Connected succe dsdsdssfully</h3>';
 }
 // Insert registration info
 if (!empty($_POST))
@@ -114,4 +114,5 @@ echo "Insert Failed";
 }
 ?>
 </body>
+
 </html>
